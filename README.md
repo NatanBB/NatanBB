@@ -14,7 +14,7 @@
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat?link=https://www.behance.net/natanborba/)](https://www.behance.net/natanborba)
 [![Gmail Badge](https://img.shields.io/badge/-natanborba77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natanborba77@gmail.com)
 
-## 🚀💻 Tecnologias & Ferramentas
+## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
