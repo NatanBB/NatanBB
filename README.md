@@ -3,11 +3,11 @@
 <h1 align = "justify"> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Natan Borba Boos! </h1>
 <h3>Bem Vindo ao meu GitHub!🚀</h3>
 
-- 🎓 Cursando Bacharelado em Sistemas de Informação.
-- 👨‍💻 Desenvolvedor FullStack.
-- 🚀 Buscando sempre aprimorar meu conhecimento.
-- 📱 Aprendendo sobre desenvolvimento mobile.
-- 😆 Sei deixar as coisas com um visual bonitinho!
+- 🎓 Cursando Bacharelado em Sistemas de Informação
+- 👨‍💻 Desenvolvedor FullStack
+- 🚀 Buscando sempre aprimorar meu conhecimento
+- 📱 Aprendendo sobre desenvolvimento mobile
+- 😆 Sei deixar as coisas com um visual bonitinho
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-borba-boos-a0a71b203/)](https://www.linkedin.com/in/natan-borba-boos-a0a71b203/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natan_borbaboos/)](https://www.instagram.com/natan_borbaboos/)
@@ -28,6 +28,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=appveyor)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
