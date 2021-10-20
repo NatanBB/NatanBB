@@ -13,7 +13,8 @@
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/natanborba/)](https://www.behance.net/natanborba)
 [![Gmail Badge](https://img.shields.io/badge/-natanborba77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natanborba77@gmail.com)
 
-## 🚀💻 Technologies & Tools
+<details>
+  <summary>🚀💻 Technologies & Tools</summary>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +34,10 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 👨‍💻 Workspace Spec
+ </details>
+ 
+ <details>
+  <summary>👨‍💻 Workspace Spec</summary>
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -42,6 +46,7 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201050Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+  </details>
 
 ## ⚡ GitHub Stats
 
