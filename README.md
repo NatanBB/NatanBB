@@ -52,8 +52,8 @@
 
 <p align='center'>
   <a href="https://github.com/NatanBB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanBB&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBB&hide=TeX&theme=tokyonight&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NatanBB&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBB&hide=TeX&theme=tokyonight&layout=compact" />
   
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
