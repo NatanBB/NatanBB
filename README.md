@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=NatanBB" alt="NatanBB" /></p>
 
-<h1 align = "justify"> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Natan Borba Boos! </h1>
+<h1 align = "justify"> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, eu sou Natan Borba Boos! </h1>
 <h3>Bem Vindo ao meu GitHub!🚀</h3>
 
 - 🎓 Cursando Bacharelado em Sistemas de Informação
