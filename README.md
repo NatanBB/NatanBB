@@ -233,15 +233,105 @@
 </p>
 <br>
 
+<h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
+<img align="right" height="496px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBB&langs_count=8&theme=tokyonight&hide_border=true">
+<table height="495px">
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/portfolioNatan" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=portfolioNatan&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/Be-The-Hero" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=Be-The-Hero&theme=tokyonight&hide_border=true">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <a href="https://github.com/NatanBB/Ecoleta" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=Ecoleta&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/Proffy" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=Proffy&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/libproject" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=libproject&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/TerrainP5" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=TerrainP5&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/NLW-COPA" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=NLW-COPA&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/PlantManager" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=PlantManager&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/RocketCoffee" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=RocketCoffee&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/PricingTable" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=PricingTable&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/Podcastr" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=Podcastr&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/NatanBB/Badges4-README.md-Profile" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatanBB&repo=Badges4-README.md-Profile&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+</table>
+<br>
+
 <h2 align="center">⚡ &ensp;<i>G i t H u b S t a t s</i></h2>
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=NatanBB&theme=tokyo-night&hide_border=true">
+
 <br><br>
 <p align='center'>
   <a href="https://github.com/NatanBB">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NatanBB&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBB&hide=TeX&theme=tokyonight&layout=compact" />
-  
+  <img align="center" height="260em" src="https://activity-graph.herokuapp.com/graph?username=NatanBB&theme=tokyo-night&hide_border=true">
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </p>
