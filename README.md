@@ -324,9 +324,6 @@
 <br>
 
 <h2 align="center">⚡ &ensp;<i>G i t H u b S t a t s</i></h2>
-<br>
-
-<br><br>
 <p align='center'>
   <a href="https://github.com/NatanBB">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NatanBB&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
