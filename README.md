@@ -324,11 +324,13 @@
 <br>
 
 <h2 align="center">⚡ &ensp;<i>G i t H u b S t a t s</i></h2>
+<div>
+ <img align="center" height="260em" src="https://github-profile-trophy.vercel.app/?username=NatanBB&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+ </div>
 <p align='center'>
   <a href="https://github.com/NatanBB">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NatanBB&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBB&hide=TeX&theme=tokyonight&layout=compact" />
-  <img align="center" height="260em" src="https://activity-graph.herokuapp.com/graph?username=NatanBB&theme=tokyo-night&hide_border=true">
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </p>
