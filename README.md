@@ -11,6 +11,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natan_borbaboos/)](https://www.instagram.com/natan_borbaboos/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/natanborba/)](https://www.behance.net/natanborba)
 [![Gmail Badge](https://img.shields.io/badge/-natanborba77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natanborba77@gmail.com)
+
+![Status](./assets/profile-night-rainbow.svg)
  
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="210px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
