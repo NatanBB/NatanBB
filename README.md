@@ -3,12 +3,12 @@
 <h1 align = "justify"> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, eu sou Natan Borba Boos! </h1>
 <h3>Bem Vindo ao meu GitHub!🚀</h3>
 
-- 🎓 Cursando Bacharelado em Sistemas de Informação
+- 🎓 Bacharelado em Sistemas de Informação
 - 👨‍💻 Desenvolvedor FullStack
 - 🚀 Buscando sempre aprimorar meu conhecimento
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-borba-boos-a0a71b203/)](https://www.linkedin.com/in/natan-borba-boos-a0a71b203/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natan_borbaboos/)](https://www.instagram.com/natan_borbaboos/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-borba-boos-a0a71b203/)](https://www.linkedin.com/in/natan-borba-boos/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natan_borbaboos/)](https://www.instagram.com/natan_boos/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/natanborba/)](https://www.behance.net/natanborba)
 [![Gmail Badge](https://img.shields.io/badge/-natanborba77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natanborba77@gmail.com)
 
