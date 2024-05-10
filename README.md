@@ -325,14 +325,6 @@
 </table>
 <br>
 
-<h2 align="center">⚡ &ensp;<i>G i t H u b S t a t s</i></h2>
-<div>
- <img align="center" height="260em" src="https://github-profile-trophy.vercel.app/?username=NatanBB&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
- </div>
 <p align='center'>
-  <a href="https://github.com/NatanBB">
-  <img height="160em" src='https://github-readme-stats.vercel.app/api?username=NatanBB&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true' />
-  <img height="160em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBB&hide=TeX&theme=tokyonight&layout=compact' />
-  
   ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 </p>
