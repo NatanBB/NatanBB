@@ -5,7 +5,19 @@
 
 - 🎓 Bacharelado em Sistemas de Informação
 - 👨‍💻 Desenvolvedor FullStack
-- 🚀 Buscando sempre aprimorar meu conhecimento
+
+```
+Resumo Profissional
+_____________________
+
+ERPs para negociações internacionais utilizando React.js, Next, Typescript e C# e .NET7.
+Foco no desempenho do front-end e back-end. ORM, TDD, DTO, injeção de dependência.
+Estruturação do plano de testes unitários.
+Estruturação, desenvolvimento e manutenção de APIs Rest e Microserviços.
+Uso de ferramentas AWS como S3, RDS e Funções Lambda.
+Criação de robotizações e automações em NodeJs com integrações a apis governamentais e na área de comércio exterior.
+Projetos como freelancer atuando em criações de páginas e sistemas para empresas de diversos segmentos.
+```
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-borba-boos-a0a71b203/)](https://www.linkedin.com/in/natan-borba-boos/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natan_borbaboos/)](https://www.instagram.com/natan_boos/)
