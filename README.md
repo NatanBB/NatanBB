@@ -251,8 +251,8 @@ keywords: react, nextjs, typescript, c#, .NET, node, aws, postgresql, dynamodb
 <br>
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
-<img align="right" height="496px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBB&langs_count=8&theme=tokyonight&hide_border=true">
-<table height="495px">
+<img align="right" height="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBB&langs_count=8&theme=tokyonight&hide_border=true">
+<table height="490px">
   <tr>
     <td>
     <a href="https://github.com/NatanBB/portfolioNatan" target="_blank">
