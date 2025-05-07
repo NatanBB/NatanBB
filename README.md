@@ -25,7 +25,7 @@ Projetos como freelancer atuando em criações de páginas e sistemas para empre
 [![Gmail Badge](https://img.shields.io/badge/-natanborba77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natanborba77@gmail.com)
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-```![Status](./assets/profile-night-rainbow.svg)```
+<!--![Status](./assets/profile-night-rainbow.svg)-->
  
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="210px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
